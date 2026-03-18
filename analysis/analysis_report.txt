@@ -4,110 +4,60 @@ JOB MARKET ANALYSIS REPORT
 
 EXECUTIVE SUMMARY
 --------------------------------------------------------------------------------
-Total Job Listings: 90
-Unique Companies: 37
-Unique Locations: 14
-Analysis Date: 2026-03-18T16:38:09.546336
+Total Job Listings: 5
+Unique Companies: 3
+Unique Locations: 3
+Analysis Date: 2026-03-18T17:13:48.352039
 
 TOP 20 REQUIRED SKILLS
 --------------------------------------------------------------------------------
- 1. Kubernetes,Docker,AWS,Terraform,Python............      4 jobs
- 2. Python,JavaScript,React,SQL,Docker,AWS,REST API,Git      2 jobs
- 3. TypeScript,JavaScript,React,Python,PostgreSQL.....      2 jobs
- 4. React,TypeScript,CSS,JavaScript,Redux.............      2 jobs
- 5. Product Management,Data Analysis,SQL,Leadership...      2 jobs
- 6. Java,Scala,Python,Distributed Systems,Git.........      2 jobs
- 7. Python,C++,Machine Learning,CUDA,Statistics.......      2 jobs
- 8. C++,CUDA,Python,Performance Tuning,Git............      2 jobs
- 9. Go,Python,Distributed Systems,Container,Git.......      2 jobs
-10. Java,Python,Kubernetes,Database Design,System Design      1 jobs
-11. GCP,Kubernetes,Terraform,Python,Go................      1 jobs
-12. C#,Azure,Python,SQL Server,DevOps.................      1 jobs
-13. Azure,Kubernetes,Docker,PowerShell,Terraform......      1 jobs
-14. Python,PyTorch,TensorFlow,Machine Learning,CUDA...      1 jobs
-15. Python,SQL,Machine Learning,AWS,Scala.............      1 jobs
-16. Java,Python,Distributed Systems,AWS,Microservices.      1 jobs
-17. AWS,Kubernetes,Terraform,Database Design,Python...      1 jobs
-18. Kubernetes,Docker,AWS,Python,Bash,CI/CD...........      1 jobs
-19. Swift,Objective-C,C++,Python,Git..................      1 jobs
-20. Swift,iOS,Objective-C,REST API,Firebase...........      1 jobs
+ 1. Administration,Data Entry,MS Office,Communication.      1 jobs
+ 2. Python,JavaScript,React,SQL,PostgreSQL,Git,REST API      1 jobs
+ 3. Product Management,Analytics,Leadership,Communication,Data Analysis      1 jobs
+ 4. SQL,Python,Tableau,Data Analysis,Statistics,Business Intelligence      1 jobs
+ 5. TypeScript,React,Node.js,PostgreSQL,AWS,Git.......      1 jobs
 
 TOP 15 HIRING COMPANIES
 --------------------------------------------------------------------------------
- 1. Amazon............................................      4 jobs
- 2. Google............................................      3 jobs
- 3. Microsoft.........................................      3 jobs
- 4. Apple.............................................      3 jobs
- 5. Meta..............................................      3 jobs
- 6. Netflix...........................................      3 jobs
- 7. Stripe............................................      3 jobs
- 8. Airbnb............................................      3 jobs
- 9. Uber..............................................      3 jobs
-10. Slack.............................................      3 jobs
-11. Notion............................................      3 jobs
-12. Figma.............................................      3 jobs
-13. Databricks........................................      3 jobs
-14. Datadog...........................................      3 jobs
-15. Twilio............................................      3 jobs
+ 1. Greenhouse Software...............................      3 jobs
+ 2. Punjab Government.................................      1 jobs
+ 3. Ashby.............................................      1 jobs
 
 TOP 15 JOB LOCATIONS
 --------------------------------------------------------------------------------
- 1. San Francisco CA..................................     37 jobs
- 2. Remote............................................     30 jobs
- 3. New York NY.......................................      4 jobs
- 4. Mountain View CA..................................      3 jobs
- 5. Seattle WA........................................      3 jobs
- 6. Austin TX.........................................      2 jobs
- 7. Cupertino CA......................................      2 jobs
- 8. Los Gatos CA......................................      2 jobs
- 9. Sydney Australia..................................      2 jobs
-10. Redmond WA........................................      1 jobs
-11. Menlo Park CA.....................................      1 jobs
-12. Berlin Germany....................................      1 jobs
-13. Los Angeles CA....................................      1 jobs
-14. Boston MA.........................................      1 jobs
+ 1. New York, NY......................................      3 jobs
+ 2. Lahore, Pakistan..................................      1 jobs
+ 3. San Francisco, CA.................................      1 jobs
 
 EMPLOYMENT TYPE DISTRIBUTION
 --------------------------------------------------------------------------------
-Full-time...............................     90 (100.0%)
+Full-time...............................      5 (100.0%)
 
 EXPERIENCE LEVEL DISTRIBUTION
 --------------------------------------------------------------------------------
-Senior..................................     49 ( 54.4%)
-Mid-level...............................     40 ( 44.4%)
-Junior..................................      1 (  1.1%)
+Mid-level...............................      3 ( 60.0%)
+Junior..................................      1 ( 20.0%)
+Senior..................................      1 ( 20.0%)
 
 TOP 15 JOB TITLES
 --------------------------------------------------------------------------------
- 1. Senior Software Engineer..........................     17 jobs
- 2. Backend Engineer..................................      9 jobs
- 3. Frontend Engineer.................................      8 jobs
- 4. DevOps Engineer...................................      7 jobs
- 5. Software Engineer.................................      3 jobs
- 6. Data Scientist....................................      3 jobs
- 7. Machine Learning Engineer.........................      3 jobs
- 8. Platform Engineer.................................      3 jobs
- 9. Staff Engineer....................................      2 jobs
-10. Solutions Architect...............................      2 jobs
-11. Data Engineer.....................................      2 jobs
-12. Database Engineer.................................      2 jobs
-13. ML Engineer.......................................      2 jobs
-14. Product Manager...................................      2 jobs
-15. Java Developer....................................      2 jobs
+ 1. Software Engineer.................................      2 jobs
+ 2. Assistant.........................................      1 jobs
+ 3. Product Manager...................................      1 jobs
+ 4. Data Analyst......................................      1 jobs
 
 TOP DEPARTMENTS
 --------------------------------------------------------------------------------
-Engineering.............................     50 jobs
-Infrastructure..........................     22 jobs
-Data....................................     14 jobs
-Design..................................      2 jobs
-Product.................................      2 jobs
+Engineering.............................      2 jobs
+Administrative..........................      1 jobs
+Product.................................      1 jobs
+Data....................................      1 jobs
 
 JOB DISTRIBUTION BY SOURCE
 --------------------------------------------------------------------------------
-greenhouse..............................     33 ( 36.7%)
-lever...................................     30 ( 33.3%)
-ashby...................................     27 ( 30.0%)
+greenhouse..............................      3 ( 60.0%)
+punjab..................................      1 ( 20.0%)
+ashby...................................      1 ( 20.0%)
 
 ================================================================================
 End of Report

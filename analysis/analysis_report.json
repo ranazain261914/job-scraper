@@ -1,161 +1,66 @@
 {
   "summary": {
-    "total_jobs": 90,
-    "unique_companies": 37,
-    "unique_locations": 14,
-    "date_analyzed": "2026-03-18T16:38:09.546336",
+    "total_jobs": 5,
+    "unique_companies": 3,
+    "unique_locations": 3,
+    "date_analyzed": "2026-03-18T17:13:48.352039",
     "data_source": "Job scraping project"
   },
   "top_skills": [
     [
-      "Kubernetes,Docker,AWS,Terraform,Python",
-      4
-    ],
-    [
-      "Python,JavaScript,React,SQL,Docker,AWS,REST API,Git",
-      2
-    ],
-    [
-      "TypeScript,JavaScript,React,Python,PostgreSQL",
-      2
-    ],
-    [
-      "React,TypeScript,CSS,JavaScript,Redux",
-      2
-    ],
-    [
-      "Product Management,Data Analysis,SQL,Leadership",
-      2
-    ],
-    [
-      "Java,Scala,Python,Distributed Systems,Git",
-      2
-    ],
-    [
-      "Python,C++,Machine Learning,CUDA,Statistics",
-      2
-    ],
-    [
-      "C++,CUDA,Python,Performance Tuning,Git",
-      2
-    ],
-    [
-      "Go,Python,Distributed Systems,Container,Git",
-      2
-    ],
-    [
-      "Java,Python,Kubernetes,Database Design,System Design",
+      "Administration,Data Entry,MS Office,Communication",
       1
     ],
     [
-      "GCP,Kubernetes,Terraform,Python,Go",
+      "Python,JavaScript,React,SQL,PostgreSQL,Git,REST API",
       1
     ],
     [
-      "C#,Azure,Python,SQL Server,DevOps",
+      "Product Management,Analytics,Leadership,Communication,Data Analysis",
       1
     ],
     [
-      "Azure,Kubernetes,Docker,PowerShell,Terraform",
+      "SQL,Python,Tableau,Data Analysis,Statistics,Business Intelligence",
       1
     ],
     [
-      "Python,PyTorch,TensorFlow,Machine Learning,CUDA",
-      1
-    ],
-    [
-      "Python,SQL,Machine Learning,AWS,Scala",
-      1
-    ],
-    [
-      "Java,Python,Distributed Systems,AWS,Microservices",
-      1
-    ],
-    [
-      "AWS,Kubernetes,Terraform,Database Design,Python",
-      1
-    ],
-    [
-      "Kubernetes,Docker,AWS,Python,Bash,CI/CD",
-      1
-    ],
-    [
-      "Swift,Objective-C,C++,Python,Git",
-      1
-    ],
-    [
-      "Swift,iOS,Objective-C,REST API,Firebase",
+      "TypeScript,React,Node.js,PostgreSQL,AWS,Git",
       1
     ]
   ],
   "top_locations": {
-    "San Francisco CA": 37,
-    "Remote": 30,
-    "New York NY": 4,
-    "Mountain View CA": 3,
-    "Seattle WA": 3,
-    "Austin TX": 2,
-    "Cupertino CA": 2,
-    "Los Gatos CA": 2,
-    "Sydney Australia": 2,
-    "Redmond WA": 1,
-    "Menlo Park CA": 1,
-    "Berlin Germany": 1,
-    "Los Angeles CA": 1,
-    "Boston MA": 1
+    "New York, NY": 3,
+    "Lahore, Pakistan": 1,
+    "San Francisco, CA": 1
   },
   "top_companies": {
-    "Amazon": 4,
-    "Google": 3,
-    "Microsoft": 3,
-    "Apple": 3,
-    "Meta": 3,
-    "Netflix": 3,
-    "Stripe": 3,
-    "Airbnb": 3,
-    "Uber": 3,
-    "Slack": 3,
-    "Notion": 3,
-    "Figma": 3,
-    "Databricks": 3,
-    "Datadog": 3,
-    "Twilio": 3
+    "Greenhouse Software": 3,
+    "Punjab Government": 1,
+    "Ashby": 1
   },
   "employment_types": {
-    "Full-time": 90
+    "Full-time": 5
   },
   "experience_levels": {
-    "Senior": 49,
-    "Mid-level": 40,
-    "Junior": 1
+    "Mid-level": 3,
+    "Junior": 1,
+    "Senior": 1
   },
   "top_job_titles": {
-    "Senior Software Engineer": 17,
-    "Backend Engineer": 9,
-    "Frontend Engineer": 8,
-    "DevOps Engineer": 7,
-    "Software Engineer": 3,
-    "Data Scientist": 3,
-    "Machine Learning Engineer": 3,
-    "Platform Engineer": 3,
-    "Staff Engineer": 2,
-    "Solutions Architect": 2,
-    "Data Engineer": 2,
-    "Database Engineer": 2,
-    "ML Engineer": 2,
-    "Product Manager": 2,
-    "Java Developer": 2
+    "Software Engineer": 2,
+    "Assistant": 1,
+    "Product Manager": 1,
+    "Data Analyst": 1
   },
   "top_departments": {
-    "Engineering": 50,
-    "Infrastructure": 22,
-    "Data": 14,
-    "Design": 2,
-    "Product": 2
+    "Engineering": 2,
+    "Administrative": 1,
+    "Product": 1,
+    "Data": 1
   },
   "sources": {
-    "greenhouse": 33,
-    "lever": 30,
-    "ashby": 27
+    "greenhouse": 3,
+    "punjab": 1,
+    "ashby": 1
   }
 }
