@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "total_jobs": 10,
+    "unique_companies": 10,
+    "unique_locations": 6,
+    "date_analyzed": "2026-03-18T16:14:09.064120",
+    "data_source": "Job scraping project"
+  },
+  "top_skills": [
+    [
+      "Python,JavaScript,React,SQL,Docker,AWS,REST API,Git",
+      1
+    ],
+    [
+      "JavaScript,React,Node.js,MongoDB,CSS,HTML,REST API",
+      1
+    ],
+    [
+      "Python,SQL,Machine Learning,TensorFlow,Statistics,R,Pandas",
+      1
+    ],
+    [
+      "Kubernetes,Docker,AWS,Python,Bash,CI/CD,Git",
+      1
+    ],
+    [
+      "React,TypeScript,JavaScript,CSS,HTML,Redux",
+      1
+    ],
+    [
+      "Python,Go,SQL,PostgreSQL,REST API,Docker",
+      1
+    ],
+    [
+      "Python,PyTorch,TensorFlow,Machine Learning,Deep Learning,Statistics",
+      1
+    ],
+    [
+      "AWS,Kubernetes,Terraform,Python,Docker,CI/CD",
+      1
+    ],
+    [
+      "Selenium,Python,Testing,SQL,Git,API Testing",
+      1
+    ],
+    [
+      "Product Management,Data Analysis,SQL,Leadership",
+      1
+    ]
+  ],
+  "top_locations": {
+    "Remote": 4,
+    "San Francisco CA": 2,
+    "Seattle WA": 1,
+    "New York NY": 1,
+    "Austin TX": 1,
+    "Los Angeles CA": 1
+  },
+  "top_companies": {
+    "TechCorp Inc": 1,
+    "CloudStart Labs": 1,
+    "AI Company": 1,
+    "Innovators LLC": 1,
+    "Future Tech": 1,
+    "DataCo": 1,
+    "AI Innovations": 1,
+    "Cloud Services Inc": 1,
+    "Web Studio": 1,
+    "DevShop": 1
+  },
+  "employment_types": {
+    "Full-time": 10
+  },
+  "experience_levels": {
+    "Senior": 5,
+    "Mid-level": 4,
+    "Junior": 1
+  },
+  "top_job_titles": {
+    "Senior Software Engineer": 1,
+    "Full Stack Engineer": 1,
+    "Data Scientist": 1,
+    "DevOps Engineer": 1,
+    "Frontend Engineer": 1,
+    "Backend Engineer": 1,
+    "Machine Learning Engineer": 1,
+    "Cloud Architect": 1,
+    "QA Engineer": 1,
+    "Product Manager": 1
+  },
+  "top_departments": {
+    "Engineering": 5,
+    "Data": 2,
+    "Infrastructure": 2,
+    "Product": 1
+  },
+  "sources": {
+    "greenhouse": 4,
+    "lever": 3,
+    "ashby": 3
+  }
+}

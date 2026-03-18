@@ -1,0 +1,85 @@
+================================================================================
+JOB MARKET ANALYSIS REPORT
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Job Listings: 10
+Unique Companies: 10
+Unique Locations: 6
+Analysis Date: 2026-03-18T16:14:09.064120
+
+TOP 20 REQUIRED SKILLS
+--------------------------------------------------------------------------------
+ 1. Python,JavaScript,React,SQL,Docker,AWS,REST API,Git      1 jobs
+ 2. JavaScript,React,Node.js,MongoDB,CSS,HTML,REST API      1 jobs
+ 3. Python,SQL,Machine Learning,TensorFlow,Statistics,R,Pandas      1 jobs
+ 4. Kubernetes,Docker,AWS,Python,Bash,CI/CD,Git.......      1 jobs
+ 5. React,TypeScript,JavaScript,CSS,HTML,Redux........      1 jobs
+ 6. Python,Go,SQL,PostgreSQL,REST API,Docker..........      1 jobs
+ 7. Python,PyTorch,TensorFlow,Machine Learning,Deep Learning,Statistics      1 jobs
+ 8. AWS,Kubernetes,Terraform,Python,Docker,CI/CD......      1 jobs
+ 9. Selenium,Python,Testing,SQL,Git,API Testing.......      1 jobs
+10. Product Management,Data Analysis,SQL,Leadership...      1 jobs
+
+TOP 15 HIRING COMPANIES
+--------------------------------------------------------------------------------
+ 1. TechCorp Inc......................................      1 jobs
+ 2. CloudStart Labs...................................      1 jobs
+ 3. AI Company........................................      1 jobs
+ 4. Innovators LLC....................................      1 jobs
+ 5. Future Tech.......................................      1 jobs
+ 6. DataCo............................................      1 jobs
+ 7. AI Innovations....................................      1 jobs
+ 8. Cloud Services Inc................................      1 jobs
+ 9. Web Studio........................................      1 jobs
+10. DevShop...........................................      1 jobs
+
+TOP 15 JOB LOCATIONS
+--------------------------------------------------------------------------------
+ 1. Remote............................................      4 jobs
+ 2. San Francisco CA..................................      2 jobs
+ 3. Seattle WA........................................      1 jobs
+ 4. New York NY.......................................      1 jobs
+ 5. Austin TX.........................................      1 jobs
+ 6. Los Angeles CA....................................      1 jobs
+
+EMPLOYMENT TYPE DISTRIBUTION
+--------------------------------------------------------------------------------
+Full-time...............................     10 (100.0%)
+
+EXPERIENCE LEVEL DISTRIBUTION
+--------------------------------------------------------------------------------
+Senior..................................      5 ( 50.0%)
+Mid-level...............................      4 ( 40.0%)
+Junior..................................      1 ( 10.0%)
+
+TOP 15 JOB TITLES
+--------------------------------------------------------------------------------
+ 1. Senior Software Engineer..........................      1 jobs
+ 2. Full Stack Engineer...............................      1 jobs
+ 3. Data Scientist....................................      1 jobs
+ 4. DevOps Engineer...................................      1 jobs
+ 5. Frontend Engineer.................................      1 jobs
+ 6. Backend Engineer..................................      1 jobs
+ 7. Machine Learning Engineer.........................      1 jobs
+ 8. Cloud Architect...................................      1 jobs
+ 9. QA Engineer.......................................      1 jobs
+10. Product Manager...................................      1 jobs
+
+TOP DEPARTMENTS
+--------------------------------------------------------------------------------
+Engineering.............................      5 jobs
+Data....................................      2 jobs
+Infrastructure..........................      2 jobs
+Product.................................      1 jobs
+
+JOB DISTRIBUTION BY SOURCE
+--------------------------------------------------------------------------------
+greenhouse..............................      4 ( 40.0%)
+lever...................................      3 ( 30.0%)
+ashby...................................      3 ( 30.0%)
+
+================================================================================
+End of Report
+================================================================================
