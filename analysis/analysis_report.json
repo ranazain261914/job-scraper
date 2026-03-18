@@ -1,102 +1,161 @@
 {
   "summary": {
-    "total_jobs": 10,
-    "unique_companies": 10,
-    "unique_locations": 6,
-    "date_analyzed": "2026-03-18T16:14:09.064120",
+    "total_jobs": 90,
+    "unique_companies": 37,
+    "unique_locations": 14,
+    "date_analyzed": "2026-03-18T16:38:09.546336",
     "data_source": "Job scraping project"
   },
   "top_skills": [
     [
+      "Kubernetes,Docker,AWS,Terraform,Python",
+      4
+    ],
+    [
       "Python,JavaScript,React,SQL,Docker,AWS,REST API,Git",
-      1
+      2
     ],
     [
-      "JavaScript,React,Node.js,MongoDB,CSS,HTML,REST API",
-      1
+      "TypeScript,JavaScript,React,Python,PostgreSQL",
+      2
     ],
     [
-      "Python,SQL,Machine Learning,TensorFlow,Statistics,R,Pandas",
-      1
-    ],
-    [
-      "Kubernetes,Docker,AWS,Python,Bash,CI/CD,Git",
-      1
-    ],
-    [
-      "React,TypeScript,JavaScript,CSS,HTML,Redux",
-      1
-    ],
-    [
-      "Python,Go,SQL,PostgreSQL,REST API,Docker",
-      1
-    ],
-    [
-      "Python,PyTorch,TensorFlow,Machine Learning,Deep Learning,Statistics",
-      1
-    ],
-    [
-      "AWS,Kubernetes,Terraform,Python,Docker,CI/CD",
-      1
-    ],
-    [
-      "Selenium,Python,Testing,SQL,Git,API Testing",
-      1
+      "React,TypeScript,CSS,JavaScript,Redux",
+      2
     ],
     [
       "Product Management,Data Analysis,SQL,Leadership",
+      2
+    ],
+    [
+      "Java,Scala,Python,Distributed Systems,Git",
+      2
+    ],
+    [
+      "Python,C++,Machine Learning,CUDA,Statistics",
+      2
+    ],
+    [
+      "C++,CUDA,Python,Performance Tuning,Git",
+      2
+    ],
+    [
+      "Go,Python,Distributed Systems,Container,Git",
+      2
+    ],
+    [
+      "Java,Python,Kubernetes,Database Design,System Design",
+      1
+    ],
+    [
+      "GCP,Kubernetes,Terraform,Python,Go",
+      1
+    ],
+    [
+      "C#,Azure,Python,SQL Server,DevOps",
+      1
+    ],
+    [
+      "Azure,Kubernetes,Docker,PowerShell,Terraform",
+      1
+    ],
+    [
+      "Python,PyTorch,TensorFlow,Machine Learning,CUDA",
+      1
+    ],
+    [
+      "Python,SQL,Machine Learning,AWS,Scala",
+      1
+    ],
+    [
+      "Java,Python,Distributed Systems,AWS,Microservices",
+      1
+    ],
+    [
+      "AWS,Kubernetes,Terraform,Database Design,Python",
+      1
+    ],
+    [
+      "Kubernetes,Docker,AWS,Python,Bash,CI/CD",
+      1
+    ],
+    [
+      "Swift,Objective-C,C++,Python,Git",
+      1
+    ],
+    [
+      "Swift,iOS,Objective-C,REST API,Firebase",
       1
     ]
   ],
   "top_locations": {
-    "Remote": 4,
-    "San Francisco CA": 2,
-    "Seattle WA": 1,
-    "New York NY": 1,
-    "Austin TX": 1,
-    "Los Angeles CA": 1
+    "San Francisco CA": 37,
+    "Remote": 30,
+    "New York NY": 4,
+    "Mountain View CA": 3,
+    "Seattle WA": 3,
+    "Austin TX": 2,
+    "Cupertino CA": 2,
+    "Los Gatos CA": 2,
+    "Sydney Australia": 2,
+    "Redmond WA": 1,
+    "Menlo Park CA": 1,
+    "Berlin Germany": 1,
+    "Los Angeles CA": 1,
+    "Boston MA": 1
   },
   "top_companies": {
-    "TechCorp Inc": 1,
-    "CloudStart Labs": 1,
-    "AI Company": 1,
-    "Innovators LLC": 1,
-    "Future Tech": 1,
-    "DataCo": 1,
-    "AI Innovations": 1,
-    "Cloud Services Inc": 1,
-    "Web Studio": 1,
-    "DevShop": 1
+    "Amazon": 4,
+    "Google": 3,
+    "Microsoft": 3,
+    "Apple": 3,
+    "Meta": 3,
+    "Netflix": 3,
+    "Stripe": 3,
+    "Airbnb": 3,
+    "Uber": 3,
+    "Slack": 3,
+    "Notion": 3,
+    "Figma": 3,
+    "Databricks": 3,
+    "Datadog": 3,
+    "Twilio": 3
   },
   "employment_types": {
-    "Full-time": 10
+    "Full-time": 90
   },
   "experience_levels": {
-    "Senior": 5,
-    "Mid-level": 4,
+    "Senior": 49,
+    "Mid-level": 40,
     "Junior": 1
   },
   "top_job_titles": {
-    "Senior Software Engineer": 1,
-    "Full Stack Engineer": 1,
-    "Data Scientist": 1,
-    "DevOps Engineer": 1,
-    "Frontend Engineer": 1,
-    "Backend Engineer": 1,
-    "Machine Learning Engineer": 1,
-    "Cloud Architect": 1,
-    "QA Engineer": 1,
-    "Product Manager": 1
+    "Senior Software Engineer": 17,
+    "Backend Engineer": 9,
+    "Frontend Engineer": 8,
+    "DevOps Engineer": 7,
+    "Software Engineer": 3,
+    "Data Scientist": 3,
+    "Machine Learning Engineer": 3,
+    "Platform Engineer": 3,
+    "Staff Engineer": 2,
+    "Solutions Architect": 2,
+    "Data Engineer": 2,
+    "Database Engineer": 2,
+    "ML Engineer": 2,
+    "Product Manager": 2,
+    "Java Developer": 2
   },
   "top_departments": {
-    "Engineering": 5,
-    "Data": 2,
-    "Infrastructure": 2,
-    "Product": 1
+    "Engineering": 50,
+    "Infrastructure": 22,
+    "Data": 14,
+    "Design": 2,
+    "Product": 2
   },
   "sources": {
-    "greenhouse": 4,
-    "lever": 3,
-    "ashby": 3
+    "greenhouse": 33,
+    "lever": 30,
+    "ashby": 27
   }
 }
